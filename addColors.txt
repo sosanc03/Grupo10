@@ -2,3 +2,4 @@ Nuevos colores
 - Azul
 - Morado
 - Rojo
+- Amarillo
