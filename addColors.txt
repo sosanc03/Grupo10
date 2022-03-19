@@ -3,3 +3,4 @@ Nuevos colores
 - Morado
 - Rojo
 - Amarillo
+- Verde
